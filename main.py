@@ -1,7 +1,8 @@
 """Entry for make.fun news-image-20261122: copy the front-page image to /output/entry.png.
 
-The image (entry.png beside this file) sums up world news of Sunday 22 November 2026.
-It was drawn by build_image.py. Standard library only; no network.
+The image (entry.png beside this file) sums up world news of Sunday 22 November 2026:
+39 dated stories from 7 regions on one front page. It was drawn by build_image2.py
+(build_image.py drew the first version). Standard library only; no network.
 """
 import hashlib
 import os
